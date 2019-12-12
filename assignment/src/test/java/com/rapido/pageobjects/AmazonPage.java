@@ -1,0 +1,91 @@
+package com.rapido.pageobjects;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Set;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class AmazonPage extends BaseClass {
+
+	public AmazonPage() {
+		super();
+	}
+
+	String asearchIconCSS = "#nav-search-submit-text";
+	String asearchBoxCSS = "#twotabsearchtextbox";
+	String asearchGoButtonCSS = "input[value='Go']";
+	String asearchResultCSS = "div[data-index] span.a-price";
+	String agetPriceCSS = "a[href*='Apple-iPhone-XR-64GB-Yellow'] > span[class='a-price'] span[class='a-price-whole']";
+	String aMobileElementCSS = "a[class='a-link-normal a-text-normal'][href*='Apple-iPhone-XR-64GB-Yellow']";
+	String aMobileDescCSS = "#feature-bullets ul li";
+	String asearchBarCSS = ".nav-searchbar";
+	String fsearchButtonCSS = "button[type='submit']";
+	String fsearchButtonXpath = "//button[@type='submit']";
+	String fsearchBox = "input[title='Search for products, brands and more']";
+	String fsearchBox1 = "input[name='q']";
+	String fgetPriceCSS = "a[href*='apple-iphone-xr-yellow-64-gb'] div[class='_1vC4OE _2rQ-NK']";
+	String fclosePopupButtonCSS = "button[class='_2AkmmA _29YdH8']";
+
+	WebElement findElementByCSS(String locator) {
+		return driver.findElement(By.cssSelector(locator));
+	}
+
+	List<WebElement> findListOfElementsByCSS(String locator) {
+		return driver.findElements(By.cssSelector(locator));
+	}
+
+	WebElement findElementByXpath(String locator) {
+		return driver.findElement(By.xpath(locator));
+	}
+
+	public Boolean pageLoad(WebDriver driver, WebElement element) {
+		Boolean elementPresent = isElementPresent(driver, element);
+		if (elementPresent) {
+			System.out.println(driver.getCurrentUrl() + " - Page Loaded Successfully.");
+		} else {
+			System.out.println(driver.getCurrentUrl() + " - Page Not Loaded Properly.");
+		}
+		return elementPresent;
+	}
+
+	public HashMap<String, String> AmazonSearchItemAndGetPriceAndDesc(WebDriver driver, String itemname) {
+		pageLoad(driver, findElementByCSS(asearchBarCSS));
+		String price = "";
+		HashMap<String, String> desc = new HashMap<String, String>();
+		if (isElementPresent(driver, findElementByCSS(asearchGoButtonCSS))) {
+			findElementByCSS(asearchBoxCSS).sendKeys(itemname);
+			System.out.println("Search Item Sent...");
+			findElementByCSS(asearchGoButtonCSS).click();
+			System.out.println("Search button clicked...");
+			price = findElementByCSS(agetPriceCSS).getText();
+			System.out.println("Amazon Price = " + price);
+			desc.put("Price", price);
+		}
+		String parent = driver.getWindowHandle();
+		System.out.println("Click on Mobile Listed");
+		findElementByCSS(aMobileElementCSS).click();
+		System.out.println("Switch to new Page");
+		Set<String> windowHandles = driver.getWindowHandles();
+		for (String handle : windowHandles) {
+			if (!handle.equals(parent)) {
+				driver.switchTo().window(handle);
+			}
+		}
+		System.out.println("Switch to new Tab");
+		System.out.println("Collect Product Info");
+		List<WebElement> productDesc = driver.findElements(By.cssSelector(aMobileDescCSS));
+		for (int i = 0; i < productDesc.size(); i++) {
+			String text = productDesc.get(i).getText();
+			System.out.println("DESC TEXT : " + text);
+			desc.put("Desc:" + i, text);
+		}
+		System.out.println("Product Desc added to Map");
+		return desc;
+	}
+
+}

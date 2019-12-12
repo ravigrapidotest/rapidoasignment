@@ -1,0 +1,146 @@
+2019-12-12 12:00:32,112 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\WS7_Rapido\assignment\pom.xml
+2019-12-12 12:00:34,822 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rapido:assignment:0.0.1-SNAPSHOT @ D:\WS7_Rapido\assignment\pom.xml.
+2019-12-12 12:00:36,308 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment/src/main/java
+2019-12-12 12:00:36,326 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment/src/test/java
+2019-12-12 12:00:38,322 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2019-12-12 12:00:39,085 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:00:39,087 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:00:39,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:00:39,090 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:05:37,890 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:05:37,906 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:05:37,911 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:05:37,912 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:07:26,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:26,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:07:26,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:26,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:07:35,448 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:35,452 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:07:35,454 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:35,454 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:07:40,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:40,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:07:40,747 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:40,747 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:07:42,401 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:42,401 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:07:42,403 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:42,403 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:07:53,855 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:53,856 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:07:53,865 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:07:53,866 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:09:14,869 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rapido:assignment:0.0.1-SNAPSHOT @ D:\WS7_Rapido\assignment\pom.xml.
+2019-12-12 12:09:15,941 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:09:15,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:09:15,944 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:09:15,944 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:09:18,229 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:09:18,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:09:18,233 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:09:18,234 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:10:03,978 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:03,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:10:03,981 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:03,981 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:10:13,872 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:13,873 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:10:13,874 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:13,874 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:10:44,151 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:44,151 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:10:44,153 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:44,153 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:10:52,512 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:52,512 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:10:52,513 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:52,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:10:57,717 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:57,717 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:10:57,731 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:10:57,731 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:11:05,055 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:05,055 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:11:05,058 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:05,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:11:08,748 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:08,749 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:11:08,750 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:08,750 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:11:11,611 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:11,611 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:11:11,613 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:11,613 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:11:39,284 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:39,284 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:11:39,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:11:39,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:12:07,276 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:07,276 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:12:07,278 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:07,278 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:12:33,419 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:33,420 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:12:33,421 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:33,422 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:12:47,962 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:47,963 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:12:47,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:47,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:12:57,813 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:57,814 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:12:57,816 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:12:57,816 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:13:11,998 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:13:11,998 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:13:12,002 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:13:12,002 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:13:59,253 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:13:59,253 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:13:59,254 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:13:59,255 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:14:13,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:14:13,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:14:13,501 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:14:13,501 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:14:42,182 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:14:42,182 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:14:42,184 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:14:42,185 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:14:52,712 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:14:52,713 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:14:52,714 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:14:52,714 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:15:26,719 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:26,719 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:15:26,720 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:26,720 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:15:28,652 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:28,652 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:15:28,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:28,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:15:40,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:40,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:15:40,123 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:40,124 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:15:49,640 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:49,640 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:15:49,641 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:15:49,642 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:16:43,702 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:16:43,702 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:16:43,703 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:16:43,703 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:16:56,953 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\WS7_Rapido\assignment
+2019-12-12 12:16:56,954 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-12 12:17:00,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:17:00,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:17:00,721 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:17:00,721 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
+2019-12-12 12:17:18,223 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\WS7_Rapido\assignment
+2019-12-12 12:17:18,223 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-12 12:17:23,832 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:17:23,832 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\main\resources
+2019-12-12 12:17:23,837 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-12 12:17:23,837 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WS7_Rapido\assignment\src\test\resources
